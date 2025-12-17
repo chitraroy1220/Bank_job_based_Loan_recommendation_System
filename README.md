@@ -37,7 +37,8 @@ Clustering: K-Means groups the jobs. For example, Cluster 0 might contain admini
 
 Recommendation: The user inputs a job, and the system matches it against a pre-defined risk/income mapping to suggest a loan amount.
 ---
-#📁 Directory Structure
+
+##Directory Structure
 
 ├── bank.csv                # Raw bank marketing dataset
 ├── recommendation_system.py # Main Python script for NLP and Clustering
